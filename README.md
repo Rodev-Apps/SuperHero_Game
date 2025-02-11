@@ -22,10 +22,7 @@ The game requires 2 players and the computer just happens to be one of the pair.
 ![image showing the SuperHero index page:](./assets/images/superhero_index.png)   
 
 ## Website
-https://rhanciles.github.io/SuperHero_Game
-
-## Github
-https://github.com/rhanciles/SuperHero_Game
+[SuperHero Game](https://rodev-apps.github.io/SuperHero_Game/)
 
 ## Meet the team: 
     •	Candice Wong – Bootstrap, Modals, CSS & HTML
